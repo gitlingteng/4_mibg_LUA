@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<AbrasProject>
+  <Files>
+    <FileList index="0">
+      <File>/home/lteng/Abras/scripts/MIBG A/MIBGFromInternet1.dcm</File>
+    </FileList>
+    <FileIndex>
+      <Index>0</Index>
+      <StartMarker/>
+      <EndMarker/>
+    </FileIndex>
+  </Files>
+  <RegionList/>
+  <Attributes>
+    <Attribute>
+      <Name selected="0">fakezone</Name>
+    </Attribute>
+    <Attribute>
+      <Name selected="0">generalzone</Name>
+      <Value selected="0">1</Value>
+      <Value selected="0">10</Value>
+      <Value selected="0">2</Value>
+      <Value selected="0">3</Value>
+      <Value selected="0">4</Value>
+      <Value selected="0">5</Value>
+      <Value selected="0">6</Value>
+      <Value selected="0">7</Value>
+      <Value selected="0">8</Value>
+      <Value selected="0">9</Value>
+      <Value selected="0">unassigned</Value>
+    </Attribute>
+    <Attribute>
+      <Name selected="0">zone</Name>
+      <Value selected="0">1</Value>
+      <Value selected="0">10</Value>
+      <Value selected="0">2</Value>
+      <Value selected="0">3L</Value>
+      <Value selected="0">3R</Value>
+      <Value selected="0">4</Value>
+      <Value selected="0">5L</Value>
+      <Value selected="0">5R</Value>
+      <Value selected="0">6L</Value>
+      <Value selected="0">6R</Value>
+      <Value selected="0">7L</Value>
+      <Value selected="0">7R</Value>
+      <Value selected="0">8L</Value>
+      <Value selected="0">8R</Value>
+      <Value selected="0">9L</Value>
+      <Value selected="0">9R</Value>
+    </Attribute>
+  </Attributes>
+  <Windowing>
+    <Preset index="0">
+      <Name></Name>
+      <Width>1000</Width>
+      <Center>0</Center>
+    </Preset>
+    <Preset index="1">
+      <Name></Name>
+      <Width>1000</Width>
+      <Center>0</Center>
+    </Preset>
+    <WindowingLocked>0</WindowingLocked>
+    <ShowHistogram>0</ShowHistogram>
+    <WindowingMode>User</WindowingMode>
+    <WindowingBase>-4000</WindowingBase>
+    <WindowingCeiling>4000</WindowingCeiling>
+    <Swatches>
+      <Swatch>ffff0000</Swatch>
+      <Swatch>ffffff00</Swatch>
+      <Swatch>ff00ff00</Swatch>
+      <Swatch>ff00ffff</Swatch>
+      <Swatch>ff0000ff</Swatch>
+      <Swatch>ffff00ff</Swatch>
+      <Swatch>ff000000</Swatch>
+      <Swatch>ffffffff</Swatch>
+      <Swatch>80ff0000</Swatch>
+      <Swatch>80ffff00</Swatch>
+      <Swatch>8000ff00</Swatch>
+      <Swatch>8000ffff</Swatch>
+      <Swatch>800000ff</Swatch>
+      <Swatch>80ff00ff</Swatch>
+      <Swatch>80000000</Swatch>
+      <Swatch>ffffff</Swatch>
+    </Swatches>
+  </Windowing>
+  <DisplaySettings>
+    <Mode>Normal</Mode>
+    <ZoomSettings>
+      <CenterX>0.30015083</CenterX>
+      <CenterY>0.214007277</CenterY>
+      <Factor>41.6</Factor>
+    </ZoomSettings>
+    <NormalSettings>
+      <HighQuality>1</HighQuality>
+    </NormalSettings>
+    <OverlaySettings>
+      <OverlayBlendingType>1</OverlayBlendingType>
+      <OverlayAlpha>0.5</OverlayAlpha>
+      <OverlayCheckerTileSize>0.125</OverlayCheckerTileSize>
+      <ShowOverlayRegions>0</ShowOverlayRegions>
+    </OverlaySettings>
+    <MIPSSettings>
+      <MIPSDepthMM>5</MIPSDepthMM>
+      <MIPSVisualisationType>1</MIPSVisualisationType>
+      <MIPSAttenuation>25</MIPSAttenuation>
+    </MIPSSettings>
+  </DisplaySettings>
+  <MetaData/>
+</AbrasProject>
